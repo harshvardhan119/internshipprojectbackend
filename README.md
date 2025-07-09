@@ -1,6 +1,6 @@
 # internshipprojectbackend
 # 🔐 JWT Authentication API
-
+my vercel backend link - https://internshipprojectbackend.vercel.app
 A simple and secure backend API built with **Node.js**, **Express**, and **MongoDB**, supporting user **registration**, **login**, and **protected routes** using **JSON Web Tokens (JWT)**.
 
 ---
@@ -93,7 +93,7 @@ Copy
 Edit
 Authorization: Bearer <your_jwt_token>
 🌐 Deployment on Vercel 
-my vercel backend link - https://internshipprojectbackend.vercel.app
+
 Add vercel.json in the root:
 json
 Copy
